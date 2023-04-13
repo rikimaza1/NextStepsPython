@@ -14,16 +14,17 @@ from ejercicio11 import ejercicio11
 while True:
     os.system("cls") #Limpia la pantalla cada vez que se vuelve al menú
     print("Bienvenido/a al Menú principal. Este programa recoge todos los ejercicios de Algoritmos. Seleccione el algoritmo que desea usar de la lista.")
-    print("1 - Cálculo de letra DNI.")
-    print("2 - Cálculo del salario")
-    print("4 - Área y perímetro de un círculo")
-    print("5 - Ordenación de números enteros.")
-    print("6 - Conversor de Farenheit a Celsius")
-    print("7 - Determinar si un número es par o impar")
-    print("8 - Determinar si un año es bisiesto")
-    print("9 - Saber si un texto es un palíndromo")
-    print("10 - Ordenar alfabéticamente")
-    print("11 - Cálculo de factoriales.")
+    print("1 - Cambio de formato de fecha")
+    print("2 - Hora actual en zona horaria")
+    print("3 - Contador de palabras de cadena")
+    print("4 -Hora en formato de 24 horas")
+    print("5 - Cadena invertida")
+    print("6 - Suma de números hasta el introducido")
+    print("7 - Imprimir cadena con saltos de linea")
+    print("8 - Cadenas con más de 5 caracteres")
+    print("9 - Reemplazar palabra en cadena")
+    print("10 - Cadenas con vocales")
+    print("11 - Lista de números múltiplos de 3")
  
     
     try:
@@ -37,6 +38,8 @@ while True:
     elif opcion == 1:
         ejercicio1()
     elif opcion == 2:
+        ejercicio2()
+    elif opcion == 3:
         ejercicio2() 
     elif opcion == 4:
         ejercicio4()   

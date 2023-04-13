@@ -3,7 +3,7 @@
 # La función debe utilizar un bucle for para recorrer la lista y una estructura de control de flujo para filtrar las cadenas.
 def ejercicio10():
     lista = ["ZZz", "Pera", "Shhhh!", "Naranja", "Pff", "Fresa", "Mandarina"]
-    print("La lista es: "+lista)
+    print(f"La lista es: {lista}")
     listaAux = []
 
     for x in lista:

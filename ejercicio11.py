@@ -3,7 +3,7 @@
 # El programa debe utilizar un bucle for para recorrer la lista y una estructura de control de flujo para filtrar los números.
 def ejercicio11():
     listaEnteros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-    print("La lista es: "+listaEnteros)
+    print(f"La lista es: {listaEnteros}")
     numero = 3
     listaAux = []
 
