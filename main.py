@@ -17,7 +17,7 @@ while True:
     print("1 - Cambio de formato de fecha")
     print("2 - Hora actual en zona horaria")
     print("3 - Contador de palabras de cadena")
-    print("4 -Hora en formato de 24 horas")
+    print("4 - Hora en formato de 24 horas")
     print("5 - Cadena invertida")
     print("6 - Suma de números hasta el introducido")
     print("7 - Imprimir cadena con saltos de linea")
