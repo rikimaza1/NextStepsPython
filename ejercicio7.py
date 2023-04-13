@@ -2,8 +2,9 @@
 
 # El programa debe utilizar un bucle for para recorrer la cadena.
 
-cadena = input("Introduce una cadena de caracteres ")
-suma=0
-for x in cadena:
-    print(x)
+def Ej7():
+    cadena = input("Introduce una cadena de caracteres ")
+    suma=0
+    for x in cadena:
+        print(x)
     
