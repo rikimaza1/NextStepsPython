@@ -18,3 +18,5 @@ def ejercicio5():
             cadenaInvertida += cadena [i]
 
         print ("La cadena invertida es:", cadenaInvertida)
+if __name__=="__main__":
+    ejercicio5()

@@ -10,4 +10,6 @@ def ejercicio10():
         if "a" in x or "e" in x or "i" in x or "o" in x or "u" in x :
             listaAux.append(x)
 
-    print(listaAux)        
+    print(listaAux)       
+if __name__=="__main__":
+    ejercicio10() 

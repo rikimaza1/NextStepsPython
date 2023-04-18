@@ -23,5 +23,6 @@ def ejercicio3():
 
         contador += 1
         print(f"El numero de palabras es {contador}" )
-
+if __name__=="__main__":
+    ejercicio3()
 

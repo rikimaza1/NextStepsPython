@@ -10,4 +10,6 @@ def ejercicio8():
         if len(x) > 5:
             listaAux.append(x)
 
-    print(listaAux)        
+    print(listaAux)
+if __name__=="__main__":
+    ejercicio8()        

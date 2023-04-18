@@ -14,7 +14,8 @@ def ejercicio2():
 
    except pytz.exceptions.UnknownTimeZoneError:
       print("La zona horaria ingresada no es válida")
-
+if __name__=="__main__":
+    ejercicio2()
 
 
 

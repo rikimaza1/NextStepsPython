@@ -7,4 +7,6 @@ def ejercicio7():
     suma=0
     for x in cadena:
         print(x)
+if __name__=="__main__":
+    ejercicio7()
     

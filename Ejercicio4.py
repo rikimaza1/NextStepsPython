@@ -26,5 +26,7 @@ def ejercicio4():
         except ValueError:
             print("Formato de hora incorrecto. Intentelo de nuevo")
             continue
+if __name__=="__main__":
+    ejercicio4()
 
     

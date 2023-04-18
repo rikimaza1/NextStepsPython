@@ -16,3 +16,5 @@ def ejercicio6():
             suma += i
 
         print("La suma total de los números es:", suma)
+if __name__=="__main__":
+    ejercicio6()

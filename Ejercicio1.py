@@ -15,3 +15,5 @@ def ejercicio1():
 
         except:
             print("Error en el formato")
+if __name__=="__main__":
+    ejercicio1()

@@ -12,3 +12,5 @@ def ejercicio11():
             listaAux.append(x)
 
     print(listaAux)
+if __name__=="__main__":
+    ejercicio11()

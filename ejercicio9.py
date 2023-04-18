@@ -12,3 +12,5 @@ def ejercicio9():
         cadena = cadena.replace(palabra, palabraReemplazo)
 
     print(cadena)
+if __name__=="__main__":
+    ejercicio9()
